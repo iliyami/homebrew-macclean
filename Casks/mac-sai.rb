@@ -1,5 +1,5 @@
 cask "mac-sai" do
-  version "2.0.0"
+  version "1.9.0"
   # Set to the published DMG's hash at release time. build-dmg.sh prints
   # "SHA256:" at the end; the release workflow fills this in automatically.
   sha256 "0000000000000000000000000000000000000000000000000000000000000000"
