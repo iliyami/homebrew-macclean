@@ -15,7 +15,7 @@ cask "mac-sai" do
     strategy :github_latest
   end
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Mac Sai.app"
 
